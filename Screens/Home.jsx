@@ -12,7 +12,7 @@ const Home = () => {
 
     const { data: tents, isLoading, isSuccess, isError, error } = useGetAllTentsQuery()
 
-    console.log(tents)
+    // console.log(tents)
 
     let content;
 
