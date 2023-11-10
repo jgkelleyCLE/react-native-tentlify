@@ -15,13 +15,6 @@ const GeoModal = ({ show, setShow, location }) => {
     }
 
     console.log("location: ", location)
-    
-
-    Geocoder.init('AIzaSyAeQRBqWFXHqud3B8330d8_V22m9_c1U18')
-    // const address = Geocoder.from([lat, long]);
-    // console.log("address: ", address)
-
-    // const myApiKey="AIzaSyAeQRBqWFXHqud3B8330d8_V22m9_c1U18"
 
     
 
